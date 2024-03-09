@@ -1,6 +1,11 @@
-from django.urls import path
+from django.urls import path, include
+from rest_framework.routers import DefaultRouter
+
 from . import views
+
+router = DefaultRouter()
+router.register(r'hero-section', views.HeroSectionViewSet)
+
 urlpatterns = [
-    path("herosection/", views.HeroSectionListCreate.as_view(), name="herosection-view-create"),
-    path("herosection/<int:pk>/", views.HeroSectionRetrieveUpdateDestroy.as_view(), name="update")
+   path('', include(router.urls)),
 ]

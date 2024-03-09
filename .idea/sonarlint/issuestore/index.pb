@@ -33,8 +33,6 @@ J
 api/views.py,9\a\9ab87a77761fd3f04ce69b2b053acd030b39d3a5
 <
 api/tests.py,9\9\994f4e4447555648891e91af99ba04f94944e3c2
-4
-.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 @
 requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
 B
@@ -123,3 +121,7 @@ G.idea/sonarlint/issuestore/6/0/60d7798ccdc89f946272431dbf52664e644a1dc6,e\a\ea
 Q.idea/sonarlint/securityhotspotstore/6/0/60d7798ccdc89f946272431dbf52664e644a1dc6,9\5\95deeab2e00fc9562fe3a6673b4fdd11aca43811
 w
 G.idea/sonarlint/issuestore/f/9/f985d341cfba538595ff50168ae02fceca8bc0b1,6\e\6e50f9f9725934c16d2ad44906507fa634cfdef8
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+w
+G.idea/sonarlint/issuestore/3/c/3c84dcdc6bbe3d7817c49dcdc327b926fea1808a,1\5\15ab6acc17bd4f2d048dc50beb0dfeb0086a0c18
